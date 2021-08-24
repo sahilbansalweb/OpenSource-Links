@@ -30,3 +30,25 @@ Here I will be posting the links to Open Source programs.
 --> 24 Pull Requests (27:17) : https://24pullrequests.com/
 
 --> OSOC(27:49) : https://osoc.be/
+
+--> Hyperledger Mentorship Program (28:26) : https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program
+
+--> Season of KDE (29:26) :  https://season.kde.org/
+
+--> DataONE (30:12) : https://old.dataone.org/internships
+
+--> FREE SOFTWARE FOUNDATION Intern (30:56) : https://www.fsf.org/volunteer/internships
+
+--> Processing Foundation Fellowships (31:44) : https://processingfoundation.org/fellowships/fellowships-2020
+
+--> Hacktoberfest (32:05) : https://hacktoberfest.digitalocean.com/
+
+--> FOSSASIA CODEHEAT (32:55) : https://codeheat.org/
+
+--> DRIVENDATA (34:10)
+
+--> kubernetes shadow release program (34:30) : https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md
+
+
+
+
