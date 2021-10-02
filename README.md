@@ -52,6 +52,3 @@ Here I will be posting the links to Open Source programs.
 --> Github Campus Expert : https://education.github.com/experts
 
 --> Microsoft Learn Student Program : https://studentambassadors.microsoft.com/
-
---> Onleplus Student Program : https://www.oneplus.in/campus
-
