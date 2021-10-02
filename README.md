@@ -41,7 +41,7 @@ Here I will be posting the links to Open Source programs.
 
 --> Processing Foundation Fellowships (31:44) : https://processingfoundation.org/fellowships/fellowships-2020
 
---> Hacktoberfest (32:05) : https://hacktoberfest.digitalocean.com/
+--> Hacktoberfest 2021 (32:05) : https://hacktoberfest.digitalocean.com/
 
 --> FOSSASIA CODEHEAT (32:55) : https://codeheat.org/
 
