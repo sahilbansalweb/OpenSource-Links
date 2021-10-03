@@ -37,7 +37,7 @@ Here I will be posting the links to Open Source programs.
 
 --> DataONE (30:12) : https://old.dataone.org/internships
 
---> FREE SOFTWARE FOUNDATION Intern (30:56) : https://www.fsf.org/volunteer/internships
+--> FREE SOFTWARE FOUNDATION Internship (30:56) : https://www.fsf.org/volunteer/internships
 
 --> Processing Foundation Fellowships (31:44) : https://processingfoundation.org/fellowships/fellowships-2020
 
