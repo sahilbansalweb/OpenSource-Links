@@ -11,43 +11,43 @@ Here I will be posting the links to Open Source programs.
 
 --> Google Summer Of Code: https://summerofcode.withgoogle.com/
 
---> LNF Mentorship Program (18:38) : https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program
+--> LNF Mentorship Program : https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program
 
---> GNOME (22:05) : https://wiki.gnome.org/Outreach
+--> GNOME : https://wiki.gnome.org/Outreach
 
---> OUTREACHY (22:20) : https://www.outreachy.org/
+--> OUTREACHY : https://www.outreachy.org/
 
---> GOOGLE SEASON OF DOCS (24:40) : https://developers.google.com/season-of-docs
+--> GOOGLE SEASON OF DOCS : https://developers.google.com/season-of-docs
 
---> X.Org (24:48) : https://x.org/wiki/
+--> X.Org : https://x.org/wiki/
 
---> julia Season Of Contributions (25:44) : https://julialang.org/jsoc/
+--> julia Season Of Contributions : https://julialang.org/jsoc/
 
---> Summer of Haskel (26:00) : https://summer.haskell.org/
+--> Summer of Haskel : https://summer.haskell.org/
 
---> OPEN Mainframe Mentorship Program (26:24) : https://www.openmainframeproject.org/projects/mentorship-program
+--> OPEN Mainframe Mentorship Program : https://www.openmainframeproject.org/projects/mentorship-program
 
---> 24 Pull Requests (27:17) : https://24pullrequests.com/
+--> 24 Pull Requests : https://24pullrequests.com/
 
---> OSOC(27:49) : https://osoc.be/
+--> OSOC : https://osoc.be/
 
---> Hyperledger Mentorship Program (28:26) : https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program
+--> Hyperledger Mentorship Program : https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program
 
---> Season of KDE (29:26) :  https://season.kde.org/
+--> Season of KDE :  https://season.kde.org/
 
---> DataONE (30:12) : https://old.dataone.org/internships
+--> DataONE : https://old.dataone.org/internships
 
---> FREE SOFTWARE FOUNDATION Internship (30:56) : https://www.fsf.org/volunteer/internships
+--> FREE SOFTWARE FOUNDATION Internship : https://www.fsf.org/volunteer/internships
 
---> Processing Foundation Fellowships (31:44) : https://processingfoundation.org/fellowships/fellowships-2020
+--> Processing Foundation Fellowships : https://processingfoundation.org/fellowships/fellowships-2020
 
---> Hacktoberfest 2021 (32:05) : https://hacktoberfest.digitalocean.com/
+--> Hacktoberfest 2021 : https://hacktoberfest.digitalocean.com/
 
---> FOSSASIA CODEHEAT (32:55) : https://codeheat.org/
+--> FOSSASIA CODEHEAT : https://codeheat.org/
 
---> DRIVENDATA (34:10)
+--> DRIVENDATA :
 
---> kubernetes shadow release program (34:30) : https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md
+--> kubernetes shadow release program : https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md
 
 --> Github Campus Expert : https://education.github.com/experts
 
