@@ -54,3 +54,5 @@ Here I will be posting the links to Open Source programs.
 --> Microsoft Learn Student Program : https://studentambassadors.microsoft.com/
 
 --> Rail Girls : http://railsgirls.com/
+
+--> Google Code Jam : https://codingcompetitions.withgoogle.com/codejam
