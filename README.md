@@ -56,3 +56,5 @@ Here I will be posting the links to Open Source programs.
 --> Rail Girls : http://railsgirls.com/
 
 --> Google Code Jam : https://codingcompetitions.withgoogle.com/codejam
+
+--> Hacktoberfest: https://hacktoberfest.digitalocean.com/
