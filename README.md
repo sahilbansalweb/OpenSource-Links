@@ -57,4 +57,3 @@ Here I will be posting the links to Open Source programs.
 
 --> Google Code Jam : https://codingcompetitions.withgoogle.com/codejam
 
---> Hacktoberfest: https://hacktoberfest.digitalocean.com/
